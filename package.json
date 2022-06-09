@@ -1,5 +1,5 @@
 {
-    "name": "node-red-contrib-soap",
+    "name": "@eflexsystems/node-red-contrib-soap",
     "version": "0.1.0",
     "description": "SOAP Client for Node Red",
     "main": "index.js",
